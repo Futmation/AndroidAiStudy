@@ -1,3 +1,0 @@
-C:/Users/tnfy1/Documents/android_project/AndroidOpenCVExample/opencv/.cxx/Debug/505w2w6y/x86/CMakeFiles/opencv_jni_shared.dir
-C:/Users/tnfy1/Documents/android_project/AndroidOpenCVExample/opencv/.cxx/Debug/505w2w6y/x86/CMakeFiles/edit_cache.dir
-C:/Users/tnfy1/Documents/android_project/AndroidOpenCVExample/opencv/.cxx/Debug/505w2w6y/x86/CMakeFiles/rebuild_cache.dir
