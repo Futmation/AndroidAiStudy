@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample
+package xyz.myeoru.aistudy
 
 import org.junit.Test
 

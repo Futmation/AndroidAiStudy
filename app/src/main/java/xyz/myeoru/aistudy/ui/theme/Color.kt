@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample.ui.theme
+package xyz.myeoru.aistudy.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

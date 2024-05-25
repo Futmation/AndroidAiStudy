@@ -1,11 +1,11 @@
-package xyz.myeoru.androidopencvexample.ui.navigation
+package xyz.myeoru.aistudy.ui.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import xyz.myeoru.androidopencvexample.ui.screen.FaceRecognitionScreen
-import xyz.myeoru.androidopencvexample.ui.screen.MainScreen
+import xyz.myeoru.aistudy.ui.screen.FaceRecognitionScreen
+import xyz.myeoru.aistudy.ui.screen.MainScreen
 
 @Composable
 fun MainNavHost(

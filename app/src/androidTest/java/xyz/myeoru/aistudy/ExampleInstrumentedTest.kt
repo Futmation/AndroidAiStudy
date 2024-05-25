@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample
+package xyz.myeoru.aistudy
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

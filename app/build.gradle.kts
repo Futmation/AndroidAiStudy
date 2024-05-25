@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "xyz.myeoru.androidopencvexample"
+    namespace = "xyz.myeoru.aistudy"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "xyz.myeoru.androidopencvexample"
+        applicationId = "xyz.myeoru.aistudy"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
@@ -40,7 +40,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.13"
+        kotlinCompilerExtensionVersion = "1.5.14"
     }
     packaging {
         resources {

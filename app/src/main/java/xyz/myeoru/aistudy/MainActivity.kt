@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample
+package xyz.myeoru.aistudy
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,8 +9,8 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
 import org.opencv.android.OpenCVLoader
-import xyz.myeoru.androidopencvexample.ui.navigation.MainNavHost
-import xyz.myeoru.androidopencvexample.ui.theme.AndroidOpenCVExampleTheme
+import xyz.myeoru.aistudy.ui.navigation.MainNavHost
+import xyz.myeoru.aistudy.ui.theme.AiStudyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             val navController = rememberNavController()
 
-            AndroidOpenCVExampleTheme {
+            AiStudyTheme {
                 Surface(
                     modifier = Modifier.fillMaxSize()
                 ) {

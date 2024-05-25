@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample.analyzer
+package xyz.myeoru.aistudy.analyzer
 
 import android.content.Context
 import androidx.camera.core.ImageAnalysis

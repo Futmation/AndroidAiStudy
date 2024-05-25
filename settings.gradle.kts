@@ -21,6 +21,6 @@ dependencyResolutionManagement {
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
-rootProject.name = "AndroidOpenCVExample"
+rootProject.name = "AiStudy"
 include(":app")
 include(":opencv")

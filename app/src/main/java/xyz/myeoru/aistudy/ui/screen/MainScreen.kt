@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample.ui.screen
+package xyz.myeoru.aistudy.ui.screen
 
 import android.Manifest
 import android.content.Intent
@@ -30,7 +30,7 @@ import androidx.compose.ui.window.DialogProperties
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.LifecycleEventEffect
-import xyz.myeoru.androidopencvexample.ui.theme.AndroidOpenCVExampleTheme
+import xyz.myeoru.aistudy.ui.theme.AiStudyTheme
 
 @Composable
 fun MainScreen(
@@ -120,7 +120,7 @@ fun MainScreen(
 @Preview
 @Composable
 private fun MainScreenPreview() {
-    AndroidOpenCVExampleTheme {
+    AiStudyTheme {
         MainScreen(
             onActivityFinish = {},
             onNavigateToFaceRecognitionScreen = {}

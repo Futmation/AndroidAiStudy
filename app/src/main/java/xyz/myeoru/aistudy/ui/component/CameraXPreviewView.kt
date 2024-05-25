@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample.ui.component
+package xyz.myeoru.aistudy.ui.component
 
 import androidx.camera.core.CameraSelector
 import androidx.camera.core.Preview

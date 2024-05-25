@@ -1,4 +1,4 @@
-package xyz.myeoru.androidopencvexample.ui.navigation
+package xyz.myeoru.aistudy.ui.navigation
 
 sealed class Screens(val route: String) {
     data object Main : Screens("main")
